@@ -7,13 +7,13 @@ library(openxlsx)
 library(writexl)
 
 
-d <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_matrix/case_fatality.xlsx"))
+d <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_surg_impact/case_fatality.xlsx"))
 d <- d[,c("rei_level_1","rei_level_2","rei_level","rei_name","Case.Fatality.Assumption","DCP4.interv1","DCP4.interv2"),with=F]
 d <- d[!is.na(rei_name)]
 setnames(d,c("Case.Fatality.Assumption"),c("cf"))
 
 ## get inj inc by cause
-inc <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_matrix/inj_inc_stupid_download.xlsx",startRow = 1,colNames=F))
+inc <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_surg_impact/inj_inc_stupid_download.xlsx",startRow = 1,colNames=F))
 inc1 <- t(inc[1:10])
 for (i in 2:(nrow(inc)/10)) {
   inc1 <- rbind(inc1,t(inc[(i*10+1):(i*10+10)]))
@@ -24,7 +24,7 @@ inc1 <- inc1[!is.na(measure_name)]
 inc1[,tot_inc:=as.numeric(as.character(tot_inc))]
 
 ## merge onto causes
-gmat <- fread("C:/Users/MattC/Documents/repos/inj_matrix/en_matrix_global_incidence.csv")
+gmat <- fread("C:/Users/MattC/Documents/repos/inj_surg_impact/en_matrix_global_incidence.csv")
 gmat <- merge(gmat,inc1[,c("cause_name","tot_inc"),with=F],by=c("cause_name"),all.x=T)
 gmat[,Pct_of_Ecode_Resulting_in_Ncode:=Incidence/tot_inc]
 d <- merge(d[,c("rei_name","cf","DCP4.interv1","DCP4.interv2"),with=F],gmat,by=c("rei_name"),all=T)
@@ -36,7 +36,7 @@ d <- d[lowest_cause==1 & rei_level==2]
 d <- d[!is.na(intervention)]
 
 ## get inj deaths by cause
-deaths <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_matrix/inj_deaths_stupid_download.xlsx",startRow = 1,colNames=F))
+deaths <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_surg_impact/inj_deaths_stupid_download.xlsx",startRow = 1,colNames=F))
 deaths1 <- t(deaths[1:10])
 for (i in 2:(nrow(deaths)/10)) {
   deaths1 <- rbind(deaths1,t(deaths[(i*10+1):(i*10+10)]))
@@ -51,7 +51,7 @@ d[,affected_fraction:=num_e_end_n_death/tot_deaths]
 d <- d[,list(affected_fraction=sum(affected_fraction)),by=c("intervention","cause_name","rei_name")]
 d2 <- copy(d[,list(affected_fraction=sum(affected_fraction)),by=c("intervention","cause_name")])
 
-write_xlsx(list(d,d2),"C:/Users/MattC/Documents/repos/inj_matrix/inj_affected_fractions.xlsx")
+write_xlsx(list(d,d2),"C:/Users/MattC/Documents/repos/inj_surg_impact/inj_affected_fractions.xlsx")
 
 
 

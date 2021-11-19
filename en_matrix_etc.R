@@ -9,14 +9,14 @@ datadir <- "C:/Users/MattC/Dropbox (Personal)/hms_dropbox_backup/BCEPS/inj/"
 
 ## read in GBD 2019 injury hierarchy
 ## this hierarchy is from FairChoices severity work--could be some errors, but will double check
-h <- readRDS("C:/Users/MattC/Documents/repos/inj_matrix/dws_table2019.RDS")
+h <- readRDS("C:/Users/MattC/Documents/repos/inj_surg_impact/dws_table2019.RDS")
 ## output just inj to paste into drive doc
 h <- h[order(hierarchy2019)]
 write.csv(h[level_1=="Injuries",c("hierarchy2019","level_1","level_2","level_3","level_4","level","lowest_cause",
-                                  "cause_name"),with=F],"C:/Users/MattC/Documents/repos/inj_matrix/inj_cause_hierarchy.csv",row.names=F)
+                                  "cause_name"),with=F],"C:/Users/MattC/Documents/repos/inj_surg_impact/inj_cause_hierarchy.csv",row.names=F)
 
 ## n-code hierarchy just has a couple levels--extracting from GBD compare
-nh <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_matrix/n_code_hierarchy.xlsx"))
+nh <- data.table(read.xlsx("C:/Users/MattC/Documents/repos/inj_surg_impact/n_code_hierarchy.xlsx"))
 
 
 fls <- dir(datadir,pattern="csv")
@@ -51,7 +51,7 @@ en[lowest_cause==0,Pct_of_Ncode_from_lowest_Ecodes:=NA]
 test <- copy(en[,list(Pct_of_Ecode_Resulting_in_Ncode=sum(Pct_of_Ecode_Resulting_in_Ncode)),by=c("cause_name","rei_level")])
 test <- copy(en[lowest_cause==1,list(Pct_of_Ncode_from_lowest_Ecodes=sum(Pct_of_Ncode_from_lowest_Ecodes)),by=c("rei_name")])
 
-write.csv(en,"C:/Users/MattC/Documents/repos/inj_matrix/en_matrix_global_incidence.csv",row.names=F)
+write.csv(en,"C:/Users/MattC/Documents/repos/inj_surg_impact/en_matrix_global_incidence.csv",row.names=F)
 
 
 
