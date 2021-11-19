@@ -1,0 +1,59 @@
+"intervention","cause_name","rei_name","affected_fraction"
+"Acute intracranial pressure relief","Pedestrian road injuries","Fracture of skull",0.00240036799594873
+"Acute intracranial pressure relief","Cyclist road injuries","Fracture of skull",0.00229630737278973
+"Acute intracranial pressure relief","Motorcyclist road injuries","Fracture of skull",0.00168529550304914
+"Acute intracranial pressure relief","Motor vehicle road injuries","Fracture of skull",0.00243744811057268
+"Acute intracranial pressure relief","Other road injuries","Fracture of skull",0.00221242232624514
+"Acute intracranial pressure relief","Other transport injuries","Fracture of skull",0.00417745597603031
+"Acute intracranial pressure relief","Falls","Fracture of skull",0.00152017525173909
+"Acute intracranial pressure relief","Exposure to forces of nature","Fracture of skull",0.00259071434533312
+"Acute intracranial pressure relief","Other unintentional injuries","Fracture of skull",0.00140278980152814
+"Acute intracranial pressure relief","Drowning","Fracture of skull",0.000947962010996088
+"Acute intracranial pressure relief","Fire, heat, and hot substances","Fracture of skull",0.000334073167784966
+"Acute intracranial pressure relief","Poisoning by carbon monoxide","Fracture of skull",0.000152265234769619
+"Acute intracranial pressure relief","Poisoning by other means","Fracture of skull",0.000158293233515229
+"Acute intracranial pressure relief","Unintentional firearm injuries","Fracture of skull",0.00189597207578213
+"Acute intracranial pressure relief","Other exposure to mechanical forces","Fracture of skull",0.00100127799253431
+"Acute intracranial pressure relief","Adverse effects of medical treatment","Fracture of skull",0
+"Acute intracranial pressure relief","Venomous animal contact","Fracture of skull",0.000284067857355471
+"Acute intracranial pressure relief","Non-venomous animal contact","Fracture of skull",0.00053205072391295
+"Acute intracranial pressure relief","Pulmonary aspiration and foreign body in airway","Fracture of skull",0.000596849065048982
+"Acute intracranial pressure relief","Foreign body in eyes","Fracture of skull",0.000707093850154671
+"Acute intracranial pressure relief","Foreign body in other body part","Fracture of skull",0.000874626459329869
+"Acute intracranial pressure relief","Environmental heat and cold exposure","Fracture of skull",0.00131215657370624
+"Acute intracranial pressure relief","Self-harm by firearm","Fracture of skull",0.00235795332069661
+"Acute intracranial pressure relief","Self-harm by other specified means","Fracture of skull",0.00036874968619773
+"Acute intracranial pressure relief","Physical violence by firearm","Fracture of skull",0.00279289116136915
+"Acute intracranial pressure relief","Physical violence by sharp object","Fracture of skull",0.00148828700884686
+"Acute intracranial pressure relief","Physical violence by other means","Fracture of skull",0.00341605465985356
+"Acute intracranial pressure relief","Conflict and terrorism","Fracture of skull",0.00298761565305097
+"Acute intracranial pressure relief","Executions and police conflict","Fracture of skull",0.00216213390759975
+"Acute intracranial pressure relief","Pedestrian road injuries","Moderate/Severe TBI",0.013101213085547
+"Acute intracranial pressure relief","Cyclist road injuries","Moderate/Severe TBI",0.00626414296031483
+"Acute intracranial pressure relief","Motorcyclist road injuries","Moderate/Severe TBI",0.0189901812218244
+"Acute intracranial pressure relief","Motor vehicle road injuries","Moderate/Severe TBI",0.01129890103873
+"Acute intracranial pressure relief","Other road injuries","Moderate/Severe TBI",0.00267582156842606
+"Acute intracranial pressure relief","Other transport injuries","Moderate/Severe TBI",0.0107551536460567
+"Acute intracranial pressure relief","Falls","Moderate/Severe TBI",0.00327030605036405
+"Acute intracranial pressure relief","Exposure to forces of nature","Moderate/Severe TBI",0.00180448250407669
+"Acute intracranial pressure relief","Other unintentional injuries","Moderate/Severe TBI",0.000764927223737373
+"Acute intracranial pressure relief","Drowning","Moderate/Severe TBI",0.00197361350199286
+"Acute intracranial pressure relief","Fire, heat, and hot substances","Moderate/Severe TBI",0.000371320678023109
+"Acute intracranial pressure relief","Poisoning by carbon monoxide","Moderate/Severe TBI",0.000125870629216889
+"Acute intracranial pressure relief","Poisoning by other means","Moderate/Severe TBI",0.000201749947274529
+"Acute intracranial pressure relief","Unintentional firearm injuries","Moderate/Severe TBI",0.00408591537737664
+"Acute intracranial pressure relief","Other exposure to mechanical forces","Moderate/Severe TBI",0.000501777352702386
+"Acute intracranial pressure relief","Adverse effects of medical treatment","Moderate/Severe TBI",0
+"Acute intracranial pressure relief","Venomous animal contact","Moderate/Severe TBI",0.000226595014437996
+"Acute intracranial pressure relief","Non-venomous animal contact","Moderate/Severe TBI",0.000472246780687164
+"Acute intracranial pressure relief","Pulmonary aspiration and foreign body in airway","Moderate/Severe TBI",0.000787353269254597
+"Acute intracranial pressure relief","Foreign body in eyes","Moderate/Severe TBI",0.000011121065253858
+"Acute intracranial pressure relief","Foreign body in other body part","Moderate/Severe TBI",0.000210482386137505
+"Acute intracranial pressure relief","Environmental heat and cold exposure","Moderate/Severe TBI",0.0016040098790479
+"Acute intracranial pressure relief","Self-harm by firearm","Moderate/Severe TBI",0.00801414617388943
+"Acute intracranial pressure relief","Self-harm by other specified means","Moderate/Severe TBI",0.00270769247533155
+"Acute intracranial pressure relief","Physical violence by firearm","Moderate/Severe TBI",0.00971110668176627
+"Acute intracranial pressure relief","Physical violence by sharp object","Moderate/Severe TBI",0.0022123253900287
+"Acute intracranial pressure relief","Physical violence by other means","Moderate/Severe TBI",0.00335752514822565
+"Acute intracranial pressure relief","Conflict and terrorism","Moderate/Severe TBI",0.000812489112069597
+"Acute intracranial pressure relief","Executions and police conflict","Moderate/Severe TBI",0.000873376837926325
