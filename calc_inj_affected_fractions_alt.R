@@ -1,5 +1,6 @@
+
 ## Matthew Coates
-## Make some affected fractions for injuries
+## Make some affected fractions for injuries, utilizing only the flagged nature of injuries and level 2 causes
 
 rm(list=ls())
 library(data.table)
@@ -72,4 +73,17 @@ write_xlsx(list(d,d2),"C:/Users/MattC/Documents/repos/inj_surg_impact/inj_affect
 
 
 
+
+
+
+# for any given lowest leel cause there is set of injuries by mechanism that contribute to the death
+# i from 1 to n + polytrauma + other
+# For any given cause we list the injuries--scale half to 2/3 + polytrauma + other
+# 
+# for n code stuff--if they do sum to 1--collectively exhaustive
+# for now, for each cause (e.g. pedestrian road injuries--have Ryan and Assad give us N codes plus multiple 
+#                          category that we will include, calculate weighted average case fatality)
+# 
+# 
+# Head injuries, spine injuries, femur fracture, pelvis fracture, hip fracture, 
 
