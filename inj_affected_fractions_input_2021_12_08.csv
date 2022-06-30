@@ -1,0 +1,106 @@
+"intervention","cause_name","affected_fraction","Mortality.Effect.Size","Disability.Effect.Size"
+"Acute intracranial pressure relief","Conflict and terrorism",0.0880539632776482,0.4,0.2
+"Acute intracranial pressure relief","Cyclist road injuries",0.503093671454758,0.4,0.2
+"Acute intracranial pressure relief","Exposure to forces of nature",0.238597112695159,0.4,0.2
+"Acute intracranial pressure relief","Falls",0.32067682596606,0.4,0.2
+"Acute intracranial pressure relief","Foreign body in other body part",0.139234312659788,0.4,0.2
+"Acute intracranial pressure relief","Motor vehicle road injuries",0.431525727627909,0.4,0.2
+"Acute intracranial pressure relief","Motorcyclist road injuries",0.634691952011624,0.4,0.2
+"Acute intracranial pressure relief","Non-venomous animal contact",0.178440493239748,0.4,0.2
+"Acute intracranial pressure relief","Other exposure to mechanical forces",0.179573800294969,0.4,0.2
+"Acute intracranial pressure relief","Other road injuries",0.330526654346898,0.4,0.2
+"Acute intracranial pressure relief","Other transport injuries",0.562440209179763,0.4,0.2
+"Acute intracranial pressure relief","Other unintentional injuries",0.148334575995551,0.4,0.2
+"Acute intracranial pressure relief","Pedestrian road injuries",0.567336479814729,0.4,0.2
+"Acute intracranial pressure relief","Physical violence by firearm",0.207217171758202,0.4,0.2
+"Acute intracranial pressure relief","Physical violence by other means",0.324436399212698,0.4,0.2
+"Acute intracranial pressure relief","Physical violence by sharp object",0.0660812119064812,0.4,0.2
+"Acute intracranial pressure relief","Pulmonary aspiration and foreign body in airway",0.193473200582917,0.4,0.2
+"Acute intracranial pressure relief","Self-harm by firearm",0.310221388367252,0.4,0.2
+"Acute intracranial pressure relief","Self-harm by other specified means",0.097524228699405,0.4,0.2
+"Acute intracranial pressure relief","Unintentional firearm injuries",0.14094487523004,0.4,0.2
+"Fracture reduction and placement of external fixator and use of traction for fractures","Conflict and terrorism",0.0963864960742814,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Cyclist road injuries",0.1416748938106,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Exposure to forces of nature",0.100289717624793,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Falls",0.234277688544754,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Foreign body in other body part",0.062946196223734,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Motor vehicle road injuries",0.118756794067478,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Motorcyclist road injuries",0.116886003903457,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Non-venomous animal contact",0.0658161443282552,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Other exposure to mechanical forces",0.119574265237864,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Other road injuries",0.146988314584712,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Other transport injuries",0.140949157798923,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Other unintentional injuries",0.135406694212299,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Pedestrian road injuries",0.122410132173097,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Physical violence by other means",0.06811489442288,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Pulmonary aspiration and foreign body in airway",0.104385811641725,0.3,0.1
+"Fracture reduction and placement of external fixator and use of traction for fractures","Unintentional firearm injuries",0.078205128421998,0.3,0.1
+"Trauma laparotomy","Conflict and terrorism",0.357453863698756,0.5,0.25
+"Trauma laparotomy","Cyclist road injuries",0.340546009326209,0.5,0.25
+"Trauma laparotomy","Exposure to forces of nature",0.321589103602699,0.5,0.25
+"Trauma laparotomy","Falls",0.277775397168717,0.5,0.25
+"Trauma laparotomy","Fire, heat, and hot substances",0.217931130101898,0.5,0.25
+"Trauma laparotomy","Foreign body in other body part",0.441895234202692,0.5,0.25
+"Trauma laparotomy","Motor vehicle road injuries",0.304021044759159,0.5,0.25
+"Trauma laparotomy","Motorcyclist road injuries",0.212314000038133,0.5,0.25
+"Trauma laparotomy","Non-venomous animal contact",0.358799098607155,0.5,0.25
+"Trauma laparotomy","Other exposure to mechanical forces",0.441339024913566,0.5,0.25
+"Trauma laparotomy","Other road injuries",0.348300401747268,0.5,0.25
+"Trauma laparotomy","Other transport injuries",0.259557421554814,0.5,0.25
+"Trauma laparotomy","Other unintentional injuries",0.468745344443566,0.5,0.25
+"Trauma laparotomy","Pedestrian road injuries",0.26186805487983,0.5,0.25
+"Trauma laparotomy","Physical violence by firearm",0.559738435348572,0.5,0.25
+"Trauma laparotomy","Physical violence by other means",0.460765097231411,0.5,0.25
+"Trauma laparotomy","Physical violence by sharp object",0.536537217076258,0.5,0.25
+"Trauma laparotomy","Pulmonary aspiration and foreign body in airway",0.323649065741638,0.5,0.25
+"Trauma laparotomy","Self-harm by firearm",0.249214854670869,0.5,0.25
+"Trauma laparotomy","Unintentional firearm injuries",0.519255722110535,0.5,0.25
+"Tube thoracostomy","Conflict and terrorism",0.183753159117795,0.4,0.2
+"Tube thoracostomy","Cyclist road injuries",0.117787730242865,0.4,0.2
+"Tube thoracostomy","Exposure to forces of nature",0.158069155533672,0.4,0.2
+"Tube thoracostomy","Falls",0.139905045091067,0.4,0.2
+"Tube thoracostomy","Fire, heat, and hot substances",0.0816266475417801,0.4,0.2
+"Tube thoracostomy","Foreign body in other body part",0.201036272333199,0.4,0.2
+"Tube thoracostomy","Motor vehicle road injuries",0.161126528436799,0.4,0.2
+"Tube thoracostomy","Motorcyclist road injuries",0.100830883650717,0.4,0.2
+"Tube thoracostomy","Non-venomous animal contact",0.130285118949418,0.4,0.2
+"Tube thoracostomy","Other exposure to mechanical forces",0.198732292268702,0.4,0.2
+"Tube thoracostomy","Other road injuries",0.195468195205193,0.4,0.2
+"Tube thoracostomy","Other transport injuries",0.108882196596761,0.4,0.2
+"Tube thoracostomy","Other unintentional injuries",0.14374316868709,0.4,0.2
+"Tube thoracostomy","Pedestrian road injuries",0.121259187314538,0.4,0.2
+"Tube thoracostomy","Physical violence by firearm",0.233044392893225,0.4,0.2
+"Tube thoracostomy","Physical violence by other means",0.227511290465823,0.4,0.2
+"Tube thoracostomy","Physical violence by sharp object",0.397381571017261,0.4,0.2
+"Tube thoracostomy","Pulmonary aspiration and foreign body in airway",0.143980098369438,0.4,0.2
+"Tube thoracostomy","Self-harm by firearm",0.182652706157337,0.4,0.2
+"Tube thoracostomy","Unintentional firearm injuries",0.261594274237427,0.4,0.2
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Conflict and terrorism",0.0963864960742814,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Cyclist road injuries",0.1416748938106,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Exposure to forces of nature",0.100289717624793,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Falls",0.234277688544754,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Foreign body in other body part",0.062946196223734,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Motor vehicle road injuries",0.118756794067478,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Motorcyclist road injuries",0.116886003903457,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Non-venomous animal contact",0.0658161443282552,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Other exposure to mechanical forces",0.119574265237864,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Other road injuries",0.146988314584712,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Other transport injuries",0.140949157798923,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Other unintentional injuries",0.135406694212299,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Pedestrian road injuries",0.122410132173097,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Physical violence by other means",0.06811489442288,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Pulmonary aspiration and foreign body in airway",0.104385811641725,0.1,0.3
+"Urgent orthopedic management of injuries with, e.g., open reduction and internal fixation","Unintentional firearm injuries",0.078205128421998,0.1,0.3
+"Using common cure agents for intoxication/poisoning","Conflict and terrorism",0.162545519391955,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Exposure to forces of nature",0.0844216826213413,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Fire, heat, and hot substances",0.248395351926518,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Foreign body in other body part",0.0830902013120545,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Non-venomous animal contact",0.36295617156624,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Other exposure to mechanical forces",0.0351343389029565,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Other unintentional injuries",0.122881519142473,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Poisoning by carbon monoxide",1,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Poisoning by other means",1,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Pulmonary aspiration and foreign body in airway",0.231483536148284,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Self-harm by firearm",0.186948876109122,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Self-harm by other specified means",0.836518240722716,0.5,0.5
+"Using common cure agents for intoxication/poisoning","Venomous animal contact",1,0.5,0.5

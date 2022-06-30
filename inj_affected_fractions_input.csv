@@ -1,0 +1,59 @@
+"cause_name","intervention","affected_fraction","Mortality.Effect.Size","Disability.Effect.Size"
+"Conflict and terrorism","Acute orthopedic management",0.325764349962704,0.3,0.3
+"Cyclist road injuries","Acute orthopedic management",0.421920356302852,0.3,0.3
+"Drowning","Acute orthopedic management",0.182624949481739,0.3,0.3
+"Exposure to forces of nature","Acute orthopedic management",0.340893521729958,0.3,0.3
+"Falls","Acute orthopedic management",0.657587431038265,0.3,0.3
+"Foreign body in other body part","Acute orthopedic management",0.272802506193769,0.3,0.3
+"Motor vehicle road injuries","Acute orthopedic management",0.313651570855071,0.3,0.3
+"Motorcyclist road injuries","Acute orthopedic management",0.316989407010154,0.3,0.3
+"Non-venomous animal contact","Acute orthopedic management",0.248499201293971,0.3,0.3
+"Other exposure to mechanical forces","Acute orthopedic management",0.312829740034147,0.3,0.3
+"Other road injuries","Acute orthopedic management",0.463256044413887,0.3,0.3
+"Other transport injuries","Acute orthopedic management",0.395987186779755,0.3,0.3
+"Other unintentional injuries","Acute orthopedic management",0.411324864291153,0.3,0.3
+"Pedestrian road injuries","Acute orthopedic management",0.358667046428974,0.3,0.3
+"Physical violence by other means","Acute orthopedic management",0.13159015000352,0.3,0.3
+"Pulmonary aspiration and foreign body in airway","Acute orthopedic management",0.344046472934537,0.3,0.3
+"Self-harm by firearm","Acute orthopedic management",0.154066304318264,0.3,0.3
+"Unintentional firearm injuries","Acute orthopedic management",0.263652627137002,0.3,0.3
+"Conflict and terrorism","Emergency care, advanced",0.558992232092097,0.465672532302755,0.284157364887538
+"Cyclist road injuries","Emergency care, advanced",0.653274849763399,0.437789449890917,0.218894724945459
+"Exposure to forces of nature","Emergency care, advanced",0.556551263572004,0.454409310133641,0.2554879277507
+"Falls","Emergency care, advanced",0.468894374995694,0.437620730386547,0.218810365193273
+"Fire, heat, and hot substances","Emergency care, advanced",0.460174084246568,0.485103352250984,0.355880416542284
+"Foreign body in other body part","Emergency care, advanced",0.640821055146922,0.464885128651233,0.258116221331469
+"Motor vehicle road injuries","Emergency care, advanced",0.639838385762534,0.433905441868273,0.216952720934136
+"Motorcyclist road injuries","Emergency care, advanced",0.705340262285424,0.422399846897829,0.211199923448915
+"Non-venomous animal contact","Emergency care, advanced",0.67550162283803,0.470040626907958,0.323075360805779
+"Other exposure to mechanical forces","Emergency care, advanced",0.617848695186051,0.455742257287545,0.23814697776506
+"Other road injuries","Emergency care, advanced",0.582363630487069,0.43983784668047,0.219918923340235
+"Other transport injuries","Emergency care, advanced",0.661195222744758,0.427883021409855,0.213941510704927
+"Other unintentional injuries","Emergency care, advanced",0.614144691238172,0.471797532992357,0.273179823475683
+"Pedestrian road injuries","Emergency care, advanced",0.673577731888052,0.427551609684407,0.213775804842203
+"Physical violence by firearm","Emergency care, advanced",0.732308097496275,0.455973843534857,0.227986921767429
+"Physical violence by other means","Emergency care, advanced",0.718592040403703,0.445498102047011,0.222749051023506
+"Physical violence by sharp object","Emergency care, advanced",0.739164687767563,0.453653721707626,0.226826860853813
+"Poisoning by carbon monoxide","Emergency care, advanced",1,0.5,0.5
+"Poisoning by other means","Emergency care, advanced",1,0.5,0.5
+"Pulmonary aspiration and foreign body in airway","Emergency care, advanced",0.598666665293107,0.462193745315278,0.295931959098576
+"Self-harm by firearm","Emergency care, advanced",0.620486409501751,0.446947898018791,0.273781070801727
+"Self-harm by other specified means","Emergency care, advanced",0.852461673202655,0.489558908519466,0.468676725558397
+"Unintentional firearm injuries","Emergency care, advanced",0.660464539286774,0.456330940659458,0.228165470329729
+"Venomous animal contact","Emergency care, advanced",1,0.5,0.5
+"Conflict and terrorism","Emergency care, basic",0.0292325808326431,0,0.9
+"Cyclist road injuries","Emergency care, basic",0.0346921439206667,0,0.9
+"Executions and police conflict","Emergency care, basic",0.0226235544202957,0,0.9
+"Exposure to forces of nature","Emergency care, basic",0.0259620822516972,0,0.9
+"Falls","Emergency care, basic",0.0389127528706771,0,0.9
+"Foreign body in other body part","Emergency care, basic",0.00751908659973799,0,0.9
+"Motor vehicle road injuries","Emergency care, basic",0.0327009456094475,0,0.9
+"Motorcyclist road injuries","Emergency care, basic",0.03875268252936,0,0.9
+"Non-venomous animal contact","Emergency care, basic",0.00664111348697138,0,0.9
+"Other exposure to mechanical forces","Emergency care, basic",0.0169557975547967,0,0.9
+"Other road injuries","Emergency care, basic",0.0364892535409685,0,0.9
+"Other transport injuries","Emergency care, basic",0.0396715151063673,0,0.9
+"Other unintentional injuries","Emergency care, basic",0.0264189992132501,0,0.9
+"Pedestrian road injuries","Emergency care, basic",0.0386160226283335,0,0.9
+"Physical violence by other means","Emergency care, basic",0.0238171840506762,0,0.9
+"Self-harm by other specified means","Emergency care, basic",0.00727093042004634,0,0.9
